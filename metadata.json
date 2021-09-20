@@ -1,0 +1,8 @@
+{
+  "name": "Info",
+  "description": "Show custom info in toolbar",
+  "uuid": "info-ext@boldyrev.github.com",
+  "shell-version": [
+    "3.38"
+  ]
+}
